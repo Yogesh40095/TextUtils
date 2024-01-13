@@ -1,0 +1,1 @@
+<p>{text.split(/\s+/).length} words and {text.length} characters</p>
